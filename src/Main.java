@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
+
+        // Use forEach to console.log contents.
+
+        arr.forEach(function(item) {
+
+            console.log(item);
+
+        });
     }
 }
